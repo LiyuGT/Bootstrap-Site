@@ -1,0 +1,89 @@
+
+
+.main-title {
+  font-family: verdana;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+ 
+ }
+ 
+ .style1 {
+    font-family: Arial;
+    margin-bottom: 12px;
+ 
+ 
+  }
+
+ .full-page {
+    background-color:aquamarine;
+ }
+
+ .headerstyle {
+    background-color:  rgb(8, 6, 59) ;  
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: orangered;
+   }
+
+   .header2style {
+    background-color:  rgb(8, 6, 59) ;  
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: orangered;
+    font-size: 40px;
+   }
+
+   .img {
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 235px;
+
+   } 
+
+   .orange{
+    color: orangered;
+   }
+   .whitetext{
+    color: white;
+   }
+
+   .bluebackground{
+    background-color:  rgb(8, 6, 59) ;  
+   }
+
+   .padding {
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+   }
+
+   .linkpadding {
+    padding-right: 100px;
+    padding-left: 100px;
+   }
+
+   .contactpadding{
+        padding-top: 50px;
+        padding-right: 280px;
+        padding-bottom: 50px;
+        padding-left: 280px;
+
+   }
+
+   .button {
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+   
